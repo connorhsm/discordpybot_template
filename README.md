@@ -16,7 +16,7 @@ Complete documentation, sucks to be you.
 ### Some handy links
 - [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/index.html)
 - [Python Poetry](https://python-poetry.org/)
-- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Discord Developer Portal](https://discord.com/developers/applications)
 
 ### Bots made with this template
