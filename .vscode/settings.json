@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./template_bot"
+    ],
+    "python.analysis.extraPaths": [
+        "./template_bot"
+    ],
+    "restructuredtext.confPath": ""
+}
