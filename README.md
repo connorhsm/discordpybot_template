@@ -12,3 +12,13 @@ A template for Discord.py bots, with some utils I like for my bots
 
 ### To do
 Complete documentation, sucks to be you.
+
+### Handy links
+- [Discord.py Docs](https://discordpy.readthedocs.io/en/latest/index.html)
+- [Python Poetry](https://python-poetry.org/)
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Discord Developer Portal](https://discord.com/developers/applications)
+
+### Bots made with this template
+- https://github.com/twohoursonelife/dictator
+- https://github.com/voteflux/flux-projects
