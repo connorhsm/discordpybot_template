@@ -2,7 +2,14 @@ import os
 from discord.ext import commands
 import utils.config_manager as config
 import discord
+import logging
 
+# Setup logging
+logger = logging.getLogger('discord')
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler(filename='template_bot/template_bot.log', encoding='utf-8', mode='w')
+handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
+logger.addHandler(handler)
 
 print(config.check_config())
 
